@@ -3,10 +3,10 @@
 
 准备回看java基础，准备过年后找工作了
 
-[Javase回顾 ]
+[Javase回顾]
 **忘记太多了**
 
-Mysql
+[Mysql](https://github.com/YGH-9/YGH-9.github.io/edit/gh-pages/Mysql)
 
 Mybatis
 
